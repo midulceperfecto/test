@@ -35,10 +35,10 @@
           //});
         }
         response = response.sort(function (a, b) {
-            if (a.fav < b.fav) {
+            if (eval(a.fav) < eval(b.fav)){
                 return 1;
               }
-            if (a.fav > b.fav) {
+            if (eval(a.fav)> eval(b.fav)){
                return -1;
             }
 
