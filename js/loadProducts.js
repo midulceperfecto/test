@@ -56,16 +56,16 @@
       var item = $("<div></div>"); 
         item.attr("class", "col-md-6 col-lg-4 mb-5");
 
-      var portfolio-item = $("<div></div>"); 
-        portfolio-item.attr("class", "portfolio-item mx-auto");
-        portfolio-item.attr("data-toggle", "modal");
-        portfolio-item.attr("data-target", "#portfolioModal"+index);
+      var portfolioItem = $("<div></div>"); 
+        portfolioItem.attr("class", "portfolio-item mx-auto");
+        portfolioItem.attr("data-toggle", "modal");
+        portfolioItem.attr("data-target", "#portfolioModal"+index);
 
-      var portfolio-item-caption = $("<div></div>");
-      portfolio-item-caption.attr("class", "portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"); 
+      var portfolioItemCaption = $("<div></div>");
+      portfolioItemCaption.attr("class", "portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"); 
    
-      var portfolio-item-caption-content = $("<div></div>");
-      portfolio-item-caption-content.attr("class", "portfolio-item-caption-content text-center text-white"); 
+      var portfolioItemCaptionContent = $("<div></div>");
+      portfolioItemCaptionContent.attr("class", "portfolio-item-caption-content text-center text-white"); 
 
       var fas = $("<i></i>");
       fas.attr("class", "fas fa-plus fa-3x"); 
@@ -76,10 +76,10 @@
         img.attr("alt", product.nom);
         img.attr("title", product.des);
 
-      item.append(portfolio-item);
-      portfolio-item.append(portfolio-item-caption, img);
-      portfolio-item-caption.append(portfolio-item-caption-content);
-      portfolio-item-caption-content.append(fas);
+      item.append(portfolioItem);
+      portfolioItem.append(portfolioItemCaption, img);
+      portfolioItemCaption.append(portfolioItemCaptionContent);
+      portfolioItemCaptionContent.append(fas);
 
       item.appendTo('#products'); 
 
