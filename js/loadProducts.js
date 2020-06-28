@@ -30,9 +30,6 @@
           response = response.filter(function(item) {
             return item.tags.toLowerCase().includes(filter);
           });
-          //response = $.grep(response, function (element, index) {
-          //    return element.tags.toLowerCase().includes(filter);
-          //});
         }
         response = response.sort(function (a, b) {
             if (eval(a.fav) < eval(b.fav)){
