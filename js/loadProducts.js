@@ -1,5 +1,5 @@
 
-    var urlJSON = 'json/tortas.json';
+    var urlJSON = 'https://midulceperfecto.github.io/test/json/tortas.json';
     var urlWhatsApp = 'https://wa.me/51956235897?text='
 
     $(document).ready(function () {
@@ -27,9 +27,12 @@
       $.getJSON(urlJSON).done( function(response) {
         if(filter != '')
         {
-            response = $.grep(response, function (element, index) {
-              return element.tags.toLowerCase().includes(filter);
+          response = response.filter(function(item) {
+            return item.tags.toLowerCase().includes(filter;)
           });
+          //response = $.grep(response, function (element, index) {
+          //    return element.tags.toLowerCase().includes(filter);
+          //});
         }
         response = response.sort(function (a, b) {
             if (a.fav < b.fav) {

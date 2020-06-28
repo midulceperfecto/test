@@ -1,47 +1,47 @@
 [
      {
-        "nom": "keke de vainilla",
+        "nom": "keke de vainilla rectangular",
         "des": "Keke de vainilla con chispas de chocochips",
-        "sale": 0,
+        "sale": 20,
         "part": 10,
         "img": "1001.jpg",
-        "tags": "all,vainilla,keke",
+        "tags": "all,inicio,vainilla,keke",
         "fav": "1000"
     },
      {
-        "nom": "keke marmoleado",
+        "nom": "keke marmoleado rectangular",
         "des": "keke de vainilla y chocolate",
-        "sale": 0,
+        "sale": 20,
         "part": 10,
         "img": "1002.jpg",
         "tags": "all,inicio,marmoleado,keke",
         "fav": "999"
     },
      {
-        "nom": "keke de chocolate",
+        "nom": "keke de chocolate rectangular",
         "des": "",
-        "sale": 0,
+        "sale": 20,
         "part": 10,
         "img": "1003.jpg",
         "tags": "all,inicio,chocolate, keke",
         "fav": "988"
     },
      {
-        "nom": "Paw patrol",
-        "des": "keke de zanahoria con pecanas y pasas relleno con manjar blanco",
-        "sale": 0,
+        "nom": "Paw patrol niño",
+        "des": "Delicioso keke de zanahoria con pecanas y pasas relleno con manjar blanco",
+        "sale": 140,
         "part": 20,
         "img": "1004.jpg",
-        "tags": "all,paw,patrol,chase,marshall,fondant,infantil,cumpleaños",
+        "tags": "all,inicio,paw,patrol,chase,marshall,fondant,infantil,cumpleaños",
         "fav": "2"
     },
      {
         "nom": "Guardia de leon",
-        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "des": "Delicioso keke de vainilla con chispas de chocochips relleno con manjar blanco",
         "sale": 0,
         "part": -1,
         "img": "1005.jpg",
-        "tags": "all,guardia,leon,fondant,infantil,cumpleaños",
+        "tags": "all,inicio,guardia,leon,fondant,infantil,cumpleaños",
         "fav": "3"
     },
      {
@@ -95,7 +95,7 @@
         "sale": 0,
         "part": 20,
         "img": "1011.jpg",
-        "tags": "all,abuelita,paisana,cumpleaños,mujer,mamá,campesina",
+        "tags": "all,abuelita,paisana,cumpleaños,mujer,mamá,campesina,fondant",
         "fav": "1"
     },
      {
@@ -104,16 +104,169 @@
         "sale": 0,
         "part": 50,
         "img": "1012.jpg",
-        "tags": "all,flores,mujer,cumpleaños,papel,azucar",
+        "tags": "all,flores,mujer,cumpleaños,papel,azucar,fondant",
         "fav": "1"
     },
      {
-        "nom": "Comunión",
+        "nom": "Comunión niña",
         "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
         "sale": 0,
         "part": 30,
         "img": "1013.jpg",
-        "tags": "all,comunion,niña",
+        "tags": "all,comunion,niña,fondant",
         "fav": "1"
+    },
+     {
+        "nom": "U",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": -1,
+        "img": "1014.jpg",
+        "tags": "all,u,universitario,crema,fondant,cumpleaños",
+        "fav": "1"
+    },
+     {
+        "nom": "Pareja",
+        "des": "Keke ingles con frutas confitadas, pecanas y pisco",
+        "sale": 0,
+        "part": -1,
+        "img": "1015.jpg",
+        "tags": "all,pareja,matrimonio,fondant",
+        "fav": ""
+    },
+     {
+        "nom": "Confirmación niña",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": -1,
+        "img": "1016.jpg",
+        "tags": "all,confirmacion,niña,fondant",
+        "fav": ""
+    },
+     {
+        "nom": "Bautizo niño",
+        "des": "keke de zanahoria con pecanas y pasas relleno con manjar blanco",
+        "sale": 0,
+        "part": -1,
+        "img": "1017.jpg",
+        "tags": "all,bautizo,niño,fondant",
+        "fav": ""
+    },
+     {
+        "nom": "Matrimonio",
+        "des": "keke árabe con frutas secas y vino",
+        "sale": 0,
+        "part": -1,
+        "img": "1018.jpg",
+        "tags": "all,matrimonio,flores,fondant,rosas",
+        "fav": ""
+    },
+     {
+        "nom": "Matrimonio",
+        "des": "keke árabe con frutas secas y vino",
+        "sale": 0,
+        "part": -1,
+        "img": "1019.jpg",
+        "tags": "all,matrimonio,flores,fondant,rosas",
+        "fav": ""
+    },
+     {
+        "nom": "Comunión niña",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": -1,
+        "img": "1020.jpg",
+        "tags": "all,comunion,niña,fondant,muñeca",
+        "fav": ""
+    },
+     {
+        "nom": "Pocoyo",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": -1,
+        "img": "1021.jpg",
+        "tags": "all,pocoyo,fondant,niño,niña",
+        "fav": ""
+    },
+     {
+        "nom": "Comunión niña",
+        "des": "",
+        "sale": 0,
+        "part": -1,
+        "img": "1022.jpg",
+        "tags": "all,comunion,niña,fondant,flores,rosas",
+        "fav": ""
+    },
+     {
+        "nom": "Policia",
+        "des": "Keke ingles con frutas confitadas, pecanas y pisco",
+        "sale": 0,
+        "part": -1,
+        "img": "1023.jpg",
+        "tags": "all,policia,hombre,fondant",
+        "fav": ""
+    },
+     {
+        "nom": "Flores",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": -1,
+        "img": "1024.jpg",
+        "tags": "all,flores,mujer,cumpleaños,fondant",
+        "fav": ""
+    },
+     {
+        "nom": "Goku",
+        "des": "keke árabe con frutas secas y vino",
+        "sale": 0,
+        "part": -1,
+        "img": "1025.jpg",
+        "tags": "all,matrimonio,flores,fondant,rosas,goku",
+        "fav": ""
+    },
+     {
+        "nom": "Goku",
+        "des": "keke árabe con frutas secas y vino",
+        "sale": 0,
+        "part": -1,
+        "img": "1026.jpg",
+        "tags": "all,matrimonio,flores,fondant,rosas,goku",
+        "fav": ""
+    },
+     {
+        "nom": "Paw patrol niña",
+        "des": "keke árabe con frutas secas y vino",
+        "sale": 0,
+        "part": -1,
+        "img": "1027.jpg",
+        "tags": "all,inicio,paw,patrol,niña,skye,everest,fondant,infantil,cumpleaños",
+        "fav": ""
+    },
+     {
+        "nom": "Conejo",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": -1,
+        "img": "1028.jpg",
+        "tags": "all,conejo,cumpleaños,rabbit",
+        "fav": ""
+    },
+     {
+        "nom": "LOL",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": -1,
+        "img": "1029.jpg",
+        "tags": "all,Lol,niña,cumpleaños,fondant,muñecas",
+        "fav": ""
+    },
+     {
+        "nom": "Rosas",
+        "des": "keke árabe con frutas secas y vino",
+        "sale": 0,
+        "part": -1,
+        "img": "1030.jpg",
+        "tags": "all,rosas,fondant,cumpleaños,perlas",
+        "fav": ""
     }
 ]
