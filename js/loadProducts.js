@@ -142,7 +142,7 @@
       modalBodyContainerCellButton.attr("data-img", product.img);
       modalBodyContainerCellButton.html("Consultar");
       var modalBodyContainerCellButtonI = $("<i></i>");
-      modalBodyContainerCellButtonI.attr("class", "fas fa-phone fa-fw");
+      modalBodyContainerCellButtonI.attr("class", "fas fa-envelope fa-fw");
       
       modalBodyContainerCellButton.click(function (){
         var index = $(this).data('index');
