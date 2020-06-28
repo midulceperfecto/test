@@ -6,14 +6,14 @@
       
       loadData('inicio');
 
-      $("#myInput").on("keyup", function() {
+      $("#txtBuscar").on("keyup", function() {
         var value = $(this).val().toLowerCase();
         $('#products').empty();
         loadData(value);
       });
       $(".linkTags").click(function() {
         var value = $(this).data('valor');
-        $("#myInput").val(value);
+        $("#txtBuscar").val(value);
         console.log(value);
         $('#products').empty();
         loadData(value);
