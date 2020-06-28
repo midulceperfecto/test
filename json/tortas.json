@@ -1,0 +1,119 @@
+[
+     {
+        "nom": "keke de vainilla",
+        "des": "Keke de vainilla con chispas de chocochips",
+        "sale": 0,
+        "part": 10,
+        "img": "1001.jpg",
+        "tags": "all,vainilla,keke",
+        "fav": "1000"
+    },
+     {
+        "nom": "keke marmoleado",
+        "des": "keke de vainilla y chocolate",
+        "sale": 0,
+        "part": 10,
+        "img": "1002.jpg",
+        "tags": "all,inicio,marmoleado,keke",
+        "fav": "999"
+    },
+     {
+        "nom": "keke de chocolate",
+        "des": "",
+        "sale": 0,
+        "part": 10,
+        "img": "1003.jpg",
+        "tags": "all,inicio,chocolate, keke",
+        "fav": "988"
+    },
+     {
+        "nom": "Paw patrol",
+        "des": "keke de zanahoria con pecanas y pasas relleno con manjar blanco",
+        "sale": 0,
+        "part": 20,
+        "img": "1004.jpg",
+        "tags": "all,paw,patrol,chase,marshall,fondant,infantil,cumpleaños",
+        "fav": "2"
+    },
+     {
+        "nom": "Guardia de leon",
+        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "sale": 0,
+        "part": -1,
+        "img": "1005.jpg",
+        "tags": "all,guardia,leon,fondant,infantil,cumpleaños",
+        "fav": "3"
+    },
+     {
+        "nom": "Arbol con flores",
+        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "sale": 0,
+        "part": 10,
+        "img": "1006.jpg",
+        "tags": "all,inicio,mujer,mama,arbol,perlas,cumpleaños,fondant",
+        "fav": "1"
+    },
+     {
+        "nom": "Alianza Lima",
+        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "sale": 0,
+        "part": -1,
+        "img": "1007.jpg",
+        "tags": "all,hombre,cumpleaños,chela,fondant,alianza,lima",
+        "fav": "1"
+    },
+     {
+        "nom": "Super Nintento",
+        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "sale": 0,
+        "part": -1,
+        "img": "1008.jpg",
+        "tags": "all,inicio,super,nintento,fondant,jostick,mando,cumpleaños",
+        "fav": "1"
+    },
+     {
+        "nom": "Camisa",
+        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "sale": 0,
+        "part": -1,
+        "img": "1009.jpg",
+        "tags": "all,inicio,camisa,cumpleaños,hombre,fondant",
+        "fav": "1"
+    },
+     {
+        "nom": "Entrenando a tu dragon",
+        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "sale": 0,
+        "part": -1,
+        "img": "1010.jpg",
+        "tags": "all,furia,nocturna,luminosa,como,entrenar,tu,dragon,fondant,infantil,cumpleaños",
+        "fav": "1"
+    },
+     {
+        "nom": "Abuelita",
+        "des": "Keke de vainilla con chispas de chocochips relleno con manjar blanco",
+        "sale": 0,
+        "part": 20,
+        "img": "1011.jpg",
+        "tags": "all,abuelita,paisana,cumpleaños,mujer,mamá,campesina",
+        "fav": "1"
+    },
+     {
+        "nom": "Flores",
+        "des": "keke árabe con frutas secas y vino oporto",
+        "sale": 0,
+        "part": 50,
+        "img": "1012.jpg",
+        "tags": "all,flores,mujer,cumpleaños,papel,azucar",
+        "fav": "1"
+    },
+     {
+        "nom": "Comunión",
+        "des": "Keke de vainilla con chispas de chocochips relleno con fudge",
+        "sale": 0,
+        "part": 30,
+        "img": "1013.jpg",
+        "tags": "all,comunion,niña",
+        "fav": "1"
+    }
+]
