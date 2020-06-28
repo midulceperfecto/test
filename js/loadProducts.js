@@ -28,7 +28,7 @@
         if(filter != '')
         {
           response = response.filter(function(item) {
-            return item.tags.toLowerCase().includes(filter;)
+            return item.tags.toLowerCase().includes(filter);
           });
           //response = $.grep(response, function (element, index) {
           //    return element.tags.toLowerCase().includes(filter);
